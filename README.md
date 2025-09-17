@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hiiiiii My name is Dreshta and I go by she/her pronouns.
+Hi! My name is Dreshta Boghra, and I go by she/her pronouns.
+
+Some of my work, like YCSB+R distributed database benchmarking, Synth AI research, and CityRat (a location-based web app project), is kept in private repositories. I’m happy to share code samples or walk through my work upon request.
