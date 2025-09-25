@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 Hi! My name is Dreshta Boghra, and I go by she/her pronouns.
 
-Some of my work, like YCSB+R distributed database benchmarking, Synth AI research, and CityRat (a location-based web app project), is kept in private repositories. I’m happy to share code samples or walk through my work upon request.
+Some of my work is kept in private repositories. I’m happy to share code samples or walk through my work upon request.
